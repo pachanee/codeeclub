@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "codee-club-emu",
+    "emu": "codee-club-emu",
+    "dev": "codee-club-dev",
+    "production": "codee-club"
+  }
+}

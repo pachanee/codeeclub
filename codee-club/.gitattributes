@@ -1,0 +1,3 @@
+docs/* linguist-documentation
+yarn.lock linguist-generated
+admin/src/scripts/seeding/data-*/*.java -linguist-detectable
